@@ -1,6 +1,6 @@
 //
 //  Error+EXT.swift
-//  SwiftfulHaptics
+//  SwiftfulSoundEffects
 //
 //  Created by Nicholas Sarno on 12/18/24.
 //
